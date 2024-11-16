@@ -1,2 +1,7 @@
-# 16.3_Js_Function_Basit_Hesap_Makinesi
-Function_Basit_Hesap_Makinesi
+# Basit Hesap Makinesi
+
+## Amaç
+Bu proje, kullanıcıdan iki sayı alarak toplama, çıkarma, çarpma ve bölme işlemleri yapabilen bir basit hesap makinesi uygulaması oluşturmayı amaçlamaktadır.
+
+## Fonksiyon Özeti
+Kullanıcıdan alınan sayılar ve işlem türüne göre aritmetik işlemleri gerçekleştirir ve sonucu döndürür.
